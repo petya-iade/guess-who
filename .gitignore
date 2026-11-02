@@ -1,0 +1,7 @@
+# Ignore raw data files and folders
+data/raw/
+
+# Virtual environments
+.venv/
+venv/
+env/
